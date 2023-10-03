@@ -1,7 +1,6 @@
-echo "# KIAN" >> README.md 
-git init 
-git add README.md 
-git Commit -m "الالتزام الأول" 
-git Branch -M الرئيسي 
-git Remote إضافة الأصل https://github.com/ASEEL69/KIAN.git
- git Push - ش الأصل الرئيسي
+git clone https://github.com/ASEEL69/KIAN7.git
+Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
